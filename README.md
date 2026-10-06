@@ -1,10 +1,10 @@
-﻿# 🔥 Calorie Burn Prediction ML
+# 🔥 Calorie Burn Prediction ML
 
 A Machine Learning web app that predicts calories burned during exercise based on body metrics and workout statistics using **KNN Regression** with **99.52% accuracy**.
 
 ## 🚀 Live Demo
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://calorie-burn-prediction-ml-za3q9j9qmxgczpgzqgztkv.streamlit.app)
 
 ## 📊 Dataset Features
 
